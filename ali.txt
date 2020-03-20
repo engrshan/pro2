@@ -1,0 +1,3 @@
+learning git hub
+
+< this is some sort of code which may run on any software>
